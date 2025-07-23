@@ -29,7 +29,7 @@ This project was developed as part of an academic assignment to demonstrate:
 
 ## 📷 Preview
 
-> ![Screenshot](your-screenshot-path.png)  
+> ![Screenshot](SS.png)  
 
 
 ## 📄 License
